@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning new skills.
 - 💞️ I’m looking to collaborate on open source project.
-- 📫 How to reach me ...
 
 <!---
 ravitejats18/ravitejats18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
